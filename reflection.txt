@@ -1,4 +1,4 @@
 Command line: The command line is like talking to your computer in a secret language where you type words to make it do things instead of clicking with a mouse.
 Timebox Guidelines:Due to having a bad routine in the first place i found it hard to stick to the guidelines but it gave me a better idea of the time i should spend on certain topics/areas
 5Commands: 'cd'Change Directory   'ls'Listing  'mkdir'Make Directory  'del' Deletes files  '../.' used with cd to go up a file or stay in the same file
-All of this was new to me , previusly i have worked through Google drive as a directory during school but we dragged and dropped files we didnt use and go through using commandlines.
+All of this was new to me , previously i have worked through Google drive as a directory during school but we dragged and dropped files we didnt use and go through using commandlines.
