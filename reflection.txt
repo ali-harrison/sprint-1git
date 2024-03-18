@@ -2,3 +2,14 @@ Command line: The command line is like talking to your computer in a secret lang
 Timebox Guidelines:Due to having a bad routine in the first place i found it hard to stick to the guidelines but it gave me a better idea of the time i should spend on certain topics/areas
 5Commands: 'cd'Change Directory   'ls'Listing  'mkdir'Make Directory  'del' Deletes files  '../.' used with cd to go up a file or stay in the same file
 All of this was new to me , previously i have worked through Google drive as a directory during school but we dragged and dropped files we didnt use and go through using commandlines.
+
+Git n Github
+Git: is like a magic notebook that remembers every change you make to your writing or drawings. You can use it by yourself to keep track of your work.
+GitHub: is like a library where you can store your magic notebooks. It's not just for you; others can also read your notebooks, make copies, and even help you write in them.
+
+Anology:Git is like a toolbox you keep at home, where you can work on your projects and keep track of your tools. GitHub is like a community workshop where you can showcase your projects, collaborate with others, and access a wider range of tools and resources 
+Will you remember:I do think i will remeber vaguely the difference between git and github but not as indepth as i do right now
+Timebox:No i did not stick to the timebox as i have the flu so i had breaks inbetween, but time at the desk yes i did kind of .
+
+
+
