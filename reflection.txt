@@ -24,6 +24,14 @@ I would most definetly change the time i took to do it , i feel like it was a qu
 
 stage n commit:When you're working on something, "staging" is like getting all your materials ready, and "committing" is like saving your progress. Once you've committed, it's like locking in your work so you can't accidentally change or lose it.
 
+Main:The 'main' branch is like the main folder where all the project's files are kept. It's where the latest and most stable version of the project is stored. When you start a project, you usually start with the 'main' branch.
+
+Why:The reason for creating a branch is to allow you to work on new features , fixes and or experiment without affecting all previous code. its like making a copy of your project where you can make changesand then you can later decide to merge them changes back to the main branchg.
+
+Concepts: The concepts dont feel too difficult but i still seem to be struggling with what im suppose to follow and what im not suppose too , itd be good if there was a sheet of possible errors and fixes , i know i should be asking in the discord but i feel like ill abuse that right.
+
+
+
 
 
 
